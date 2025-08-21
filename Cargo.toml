@@ -1,6 +1,9 @@
 [package]
-name = "hello_rust"
+name = "cli_blockchain_sim"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+
 
 [dependencies]
+sha2 = "0.10"
+hex = "0.4"
